@@ -1,5 +1,15 @@
 # Portfolio Project Instructions
 
+## Communication and handoff
+
+- Respond to the user in respectful Korean (존댓말), unless the user requests another language.
+- Keep the final response concise; explain the process only when requested.
+- Before starting work on another machine, read `README.md`, this file, and the relevant repository-local skill references.
+- Use repository-relative paths in project documentation. Do not assume the original machine's absolute paths, installed tools, or chat history are available.
+- The original experience DB `.docx` is not included in this repository. Request or verify source material before adding claims beyond the committed content facts.
+- Existing screenshots are historical evidence. Validate the rendered application again after visible changes.
+- Update setup and handoff documentation when prerequisites, commands, routes, or required source materials change.
+
 ## General
 
 - Preserve the existing framework, architecture, routing, and component conventions unless there is a clear technical reason to change them.
