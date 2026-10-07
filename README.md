@@ -6,10 +6,10 @@
 
 Git, Node.js, npm이 필요합니다. 현재 로컬 빌드를 확인한 버전은 Node.js `26.7.0`, npm `11.19.0`입니다. Vite와 Vue 플러그인의 Node.js 요구 사항은 `^20.19.0 || >=22.12.0`이며, 정확한 의존성 버전은 `package-lock.json`에 저장되어 있습니다.
 
-**현재 원격 저장소는 연결되지 않았으며 푸시도 완료되지 않았습니다.** 원격 저장소를 연결하고 푸시한 뒤, 아래 `<저장소 URL>`을 실제 주소로 바꿔 실행합니다.
+저장소: [dlkara/dlkara.github.io](https://github.com/dlkara/dlkara.github.io). 작업 브랜치는 `main`입니다.
 
 ```bash
-git clone <저장소 URL> portfolio-hjlee
+git clone https://github.com/dlkara/dlkara.github.io.git portfolio-hjlee
 cd portfolio-hjlee
 npm ci
 npm run dev
